@@ -3,7 +3,7 @@
 int main() {
     printf("Desafio Super Trunfo - Nivel Novato\n\n");
 
-    // Carta 1 (Porto Alegre) ======
+    // ====== Carta 1 (Porto Alegre) ======
     char estado1 = 'A';
     char codigo1[4] = "A01";
     char nomeCidade1[50] = "Porto Alegre";
@@ -12,7 +12,7 @@ int main() {
     float area1 = 496.8;
     float pib1 = 82.56;
 
-    // Carta 2 (Florianópolis) ======
+    // ====== Carta 2 (Florianópolis) ======
     char estado2 = 'B';
     char codigo2[4] = "A02";
     char nomeCidade2[50] = "Florianopolis";
